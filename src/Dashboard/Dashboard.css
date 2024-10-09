@@ -1,0 +1,11 @@
+/* Dashboard.css */
+.sidebar {
+    display: none;
+    /* Other sidebar styles */
+  }
+  
+  .sidebar.visible {
+    display: block;
+    /* Additional styles when visible */
+  }
+  
